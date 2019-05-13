@@ -1,0 +1,2 @@
+# pairings
+Pairings for tournaments
